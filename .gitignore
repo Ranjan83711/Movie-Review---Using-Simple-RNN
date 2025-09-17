@@ -37,7 +37,7 @@ data/
 *.xlsx
 
 # Model artifacts (large files)
-*.h5
+
 *.hdf5
 *.ckpt
 *.pt
