@@ -19,8 +19,6 @@ A project that uses a Simple Recurrent Neural Network to perform sentiment analy
 7. [Model Details](#model-details)
 8. [Results](#results)
 9. [Future Improvements](#future-improvements)
-10. [License](#license)
-11. [Contact](#contact)
 
 ---
 
