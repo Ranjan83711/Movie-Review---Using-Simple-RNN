@@ -1,0 +1,86 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE/editor specific
+.vscode/
+.idea/
+*.swp
+
+# Logs & debug
+*.log
+logs/
+*.out
+*.err
+
+# Data files (raw datasets)
+data/
+*.csv
+*.tsv
+*.txt
+*.json
+*.xlsx
+
+# Model artifacts (large files)
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.pb
+*.tflite
+*.joblib
+*.pkl
+
+# TensorBoard logs
+runs/
+events.out.tfevents.*
+
+# Checkpoints & temp files
+checkpoints/
+*.tmp
+*.bak
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+
+# Distribution/Packaging
+build/
+dist/
+*.egg-info/
+
+# Images/plots
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Cache
+.cache/
+*.tar
+*.gz
+*.zip
+*.npz
+*.npy
+
+# Streamlit specific
+.streamlit/
